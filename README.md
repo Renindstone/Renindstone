@@ -1,6 +1,6 @@
 ### Hola, soy Renzo 👋
 
-Hago el software que me falta: modelos para analizar partidos de fútbol y un configurador para mi mouse ROG en Linux sin Armoury Crate.
+Hago el software que me falta o que desee hacer en un momento dado: Como el modelo para analizar partidos de fútbol y un configurador para mi mouse ROG en Linux.
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&width=520&lines=An%C3%A1lisis+de+f%C3%BAtbol+con+modelos+estad%C3%ADsticos;Herramientas+para+Linux+(Arch+%2B+Hyprland);Python+%C2%B7+JavaScript+%C2%B7+Java" alt="Análisis de fútbol con modelos estadísticos · Herramientas para Linux (Arch + Hyprland) · Python · JavaScript · Java" />
 
@@ -25,7 +25,7 @@ Hago el software que me falta: modelos para analizar partidos de fútbol y un co
 
 ---
 
-Mi actividad del último año, comida por una serpiente (se regenera cada día):
+Mi actividad del último año:
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Renindstone/Renindstone/output/github-snake-dark.svg" />
