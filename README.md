@@ -1,7 +1,6 @@
 ### Hola, soy Renzo 👋
 
-Desarrollo software y web. Me gustan las herramientas que resuelven un problema mío:
-desde análisis de fútbol con modelos estadísticos hasta controlar mi mouse en Linux sin Armoury Crate.
+Desarrollo software y web. 
 
 **Ahora mismo:** Python, JavaScript y Java · Linux (Arch + Hyprland) · interés en desarrollo de videojuegos
 
@@ -18,5 +17,3 @@ desde análisis de fútbol con modelos estadísticos hasta controlar mi mouse en
 | [**capri-desktop**](https://github.com/Renindstone/capri-desktop-Arch-Hyprland) | Capri, de *Cyberpunk: Edgerunners 2*, vive en tu escritorio y narra lo que hace Claude Code | JavaScript |
 
 ---
-
-🎣 Fuera del teclado: pesca. Puedo pasar horas esperando que pique uno.
