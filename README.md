@@ -32,4 +32,4 @@ Mi actividad del último año:
   <img src="https://raw.githubusercontent.com/Renindstone/Renindstone/output/github-snake.svg" alt="Animación de una serpiente recorriendo el gráfico de contribuciones de Renindstone" />
 </picture>
 
-🎣 Fuera del teclado: pesca. Puedo pasar horas esperando que pique uno.
+🎣 Fuera del teclado: Me gusta el rock indie, pescar y salir a jugar un poco de basquet con los muchachos
